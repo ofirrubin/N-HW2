@@ -1,0 +1,1 @@
+{"ip": "127.0.0.1", "port": 1024, "backlog": 5, "webroot": "webroot", "timeout": 60, "packet_size": 1025 ,"errors": {"404": "error_404.html"}, "redirected": {"page3.html": "page2.html"}}
